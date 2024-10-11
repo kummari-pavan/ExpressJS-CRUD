@@ -1,0 +1,18 @@
+{
+  "name": "express-project",
+  "version": "1.0.0",
+  "description": "\"Learning Express with This Project\"",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js",
+    "server":"nodemon server.js"
+  },
+  "author": "K Pavan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
